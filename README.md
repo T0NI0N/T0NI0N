@@ -1,9 +1,11 @@
-### Hi there 👋
+#### Hi there, i'm Antonio! 👋
+hi, i'm an italian cybersecurity enthusiast, graduated in computer science (planning soon a master's degree enrollment).
+
+:desktop_computer: Currently learning Flutter
+
+#### Work in progress...
 
 <!--
-**T0NI0N/T0NI0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
